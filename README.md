@@ -22,3 +22,14 @@ GitHub
 
 Another clean data ![image](https://github.com/user-attachments/assets/bddd7c69-2d56-44b0-85ae-b3bd9248730b)
 
+The use of pivot table on excel  ![image](https://github.com/user-attachments/assets/88b7819c-7412-4b76-ad53-b8d3350dafdc)
+
+![image](https://github.com/user-attachments/assets/8cdb9ce1-7a6b-4fa5-903b-d24d2ee214ee)
+
+###SQL
+
+Structured Query Language,it is used for  storing and managing data,which allows users to query the database in a number  of ways, using English like statement 
+
+
+
+
