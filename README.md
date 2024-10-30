@@ -4,7 +4,7 @@ Introduction of the course
 Data Analysis is the process of extracting insight,patterns and meaning from data  to inform decision making,solve problems or answer questions
 A person who analyzes,interpret complex data to help organizations make decisions either in the business,fiance,science world is called a data analyst
 
-###Data Sources
+Data Sources
 
 Excel spreadsheet
 
